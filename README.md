@@ -63,7 +63,7 @@ Directory structure expected:
 ```bash
 git clone https://github.com/iqbalnaved/dr-classification-study.git
 cd dr-classification-study
-pip install openai google-generativeai mistralai torch torchvision transformers timm
+pip install -r requirements.txt
 ```
 
 Set API keys:
