@@ -1,5 +1,8 @@
 # Comparative Analysis of General-Purpose vs. Domain-Specific Multimodal Models for Diabetic Retinopathy Classification
 
+[![Paper](https://img.shields.io/badge/Paper-Diagnostics%202026-blue)](https://doi.org/10.3390/diagnostics16101504)
+![License](https://img.shields.io/badge/License-CC0-green)
+
 **Mohammad Iqbal Nouyed**, M. Al-Mamun, D. A. Adjeroh, G. Hu
 
 *Diagnostics*, vol. 16, no. 10, p. 1504, May 2026. [doi:10.3390/diagnostics16101504](https://doi.org/10.3390/diagnostics16101504)
